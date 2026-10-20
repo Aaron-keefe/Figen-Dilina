@@ -52,7 +52,7 @@ export const invitation = {
   ceremony: {
     eyebrow: 'Engagement Ceremony',
     venue: "St. Joseph's Church, Vadakkekota",
-    time: '11.00 a.m.',
+    time: '10.30 a.m.',
     mapsUrl: 'https://maps.app.goo.gl/iLv39mEd1UK2tZ8E7',
   },
 
